@@ -1,0 +1,9 @@
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\bin\Release\Hex文件合并.exe
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\bin\Release\Hex文件合并.pdb
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\obj\Release\Hex文件合并.csproj.AssemblyReference.cache
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\obj\Release\Hex文件合并.Form1.resources
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\obj\Release\Hex文件合并.Properties.Resources.resources
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\obj\Release\Hex文件合并.csproj.GenerateResource.cache
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\obj\Release\Hex文件合并.csproj.CoreCompileInputs.cache
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\obj\Release\Hex文件合并.exe
+C:\Users\chen\Desktop\STM32-IAP-HEX-Merge-master\Hex文件合并\obj\Release\Hex文件合并.pdb
